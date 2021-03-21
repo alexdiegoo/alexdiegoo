@@ -27,3 +27,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/alex-diego-ba08251b7/" target="_blank">
 	<img src="https://www.flaticon.com/svg/vstatic/svg/61/61109.svg?token=exp=1616286367~hmac=31667cd920d908496ab51269565fa790" width="30px"/>
 </a>
+
+## :seedling: Estudando:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" alt="Javascript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50px" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50px" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50px" alt="Csharp"/>
