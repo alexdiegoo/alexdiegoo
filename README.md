@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Alex Diego
 - :house: Moro em Maxaranguape/RN
-- :books: Atualmente estou no 2º ano do ensino médio, cursando programação para jogos digitais no IFRN.
+- :books: Atualmente estou no 3º ano do ensino médio, cursando programação para jogos digitais no IFRN.
 -  :fire: Focado em estudar desenvolvimento web.
 
 
