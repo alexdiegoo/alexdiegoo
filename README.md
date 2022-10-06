@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Alex Diego
-- :house: Moro em Maxaranguape/RN
-- :books: Atualmente estou no 3º ano do ensino médio, cursando programação para jogos digitais no IFRN.
--  :fire: Focado em estudar desenvolvimento web.
-
 
 ## :seedling: Estudando:
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" alt="Javascript"/></span>
