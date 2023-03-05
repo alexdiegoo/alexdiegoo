@@ -1,10 +1,26 @@
-Olá, meu nome é Alex e tenho 19 anos. Sou uma pessoa apaixonada por tecnologia e tenho grande interesse em entrar na área como programador, sempre buscando me atualizar e aprender mais sobre as últimas tendências e ferramentas no mundo da programação. Estou em busca de oportunidades para desenvolver minhas habilidades e contribuir para o crescimento coletivo. 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=28B01E&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28B01E&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Alex+Diego;I'm+19+years+old;Be+welcome!)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexdiegoo&show_icons=true&count_private=true&hide_border=true&title_color=28B01E&icon_color=28B01E&text_color=c9d1d9&bg_color=0d1117" alt="Alex Diego github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdiegoo&layout=compact&hide_border=true&title_color=28B01E&text_color=28B01E&bg_color=0d1117" />
+</div>
 
 
-## :seedling: Estudando:
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" alt="Javascript"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50px" alt="CSS3"/><span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50px" alt="HTML5"/></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50px" alt="Csharp"/></span>
+### Main skills:
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=javascript&labelColor=0D1117)&nbsp; 
+![html](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=html5&labelColor=0D1117)&nbsp; 
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdiegoo)](https://github.com/anuraghazra/github-readme-stats)
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+### Contact me:
+<a href="https://www.linkedin.com/in/alex-diego/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%41BBF0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=28B01E&height=120&section=footer"/>
