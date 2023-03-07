@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=28B01E&height=120&section=header"/>
+<h1 align="center">Hello, I'm Alex Diego</h1>
+<h3 align="center">Web developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=28B01E&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Alex+Diego;I'm+19+years+old;Be+welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexdiegoo&show_icons=true&count_private=true&hide_border=true&title_color=28B01E&icon_color=28B01E&text_color=c9d1d9&bg_color=0d1117" alt="Alex Diego github stats" /> 
@@ -23,4 +23,4 @@
 <a href="https://www.linkedin.com/in/alex-diego/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%41BBF0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=28B01E&height=120&section=footer"/>
+
