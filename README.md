@@ -1,13 +1,6 @@
 <h1 align="center">Hello, I'm Alex Diego</h1>
 <h3 align="center">Web developer</h3>
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alexdiegoo&show_icons=true&count_private=true&hide_border=true&title_color=28B01E&icon_color=28B01E&text_color=c9d1d9&bg_color=0d1117" alt="Alex Diego github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdiegoo&layout=compact&hide_border=true&title_color=28B01E&text_color=28B01E&bg_color=0d1117" />
-</div>
-
-
 ### Main skills:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
