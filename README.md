@@ -111,23 +111,6 @@ const alexDiego = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alex-diego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-diego&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=alex-diego&theme=tokyonight&hide_border=true&background=0d1117)
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 | Course | Institution | Period |
